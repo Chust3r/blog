@@ -26,9 +26,8 @@ const posts = (await getCollection('blog')).sort(
 							<li>
 								<a href={`/${post.slug}/`}>
 									<img
-										width={720}
-										height={360}
-										class='object-scale-down object-center bg-white'
+										loading="lazy"
+										class='object-scale-down object-center bg-white overflow-hidden w-72 h-72'
 										src={post.data.heroImage}
 										alt=''
 										transition:name={`image-${post.slug}`}
