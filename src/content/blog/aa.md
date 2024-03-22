@@ -21,8 +21,10 @@ Resaltar el bienestar animal: Promover el bienestar y los derechos de los animal
 
 Fomentar la acción: Motivar a los lectores a tomar medidas concretas, ya sea a través de donaciones a organizaciones de conservación, voluntariado en refugios de animales, participación en actividades de limpieza ambiental o apoyo a campañas de sensibilización.
 
-Crear una comunidad comprometida: Construir una comunidad en línea de personas apasionadas por la vida animal y la conservación, ofreciendo un espacio para compartir experiencias, ideas, recursos y oportunidades para colaborar en proyectos relacionados con la protección de la vida silvestre.
+Crear una comunidad comprometida: Construir una comunidad en línea de personas apasionadas por la vida animal y la conservación,
+ofreciendo un espacio para compartir experiencias, ideas, recursos y oportunidades para colaborar en proyectos relacionados con la protección de la vida silvestre.
 
+ estrella 
 
 
 
