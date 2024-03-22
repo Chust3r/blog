@@ -8,6 +8,8 @@ heroImage: '/mundo.jpeg'
 
 Endpoints de registro:
 
+Hola mundo
+
 Implementa endpoints HTTP (por ejemplo, POST) para aceptar datos de registro.
 Valida la información ingresada por el usuario (por ejemplo, verifica si el correo electrónico ya está en uso).
 Almacena la información del usuario en una base de datos de manera segura (por ejemplo, hasheando contraseñas).
