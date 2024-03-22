@@ -18,6 +18,8 @@ Además de su capacidad regenerativa, el ajolote es una parte importante del eco
 Se alimenta principalmente de insectos, gusanos y pequeños peces, ayudando a mantener el equilibrio de las poblaciones de estos organismos en su hábitat natural.
 
 Sin embargo, apesar de su importancia y su facinante biología, el ajolote enfrenta numerosas amenazas en la actualidad. La pérdida de hábitad debido a la urbanización y la contaminación del agua son algunas de las principales preocupaciones para la supervivencia de esta especie única.
+Hola mundo 
+
 
 
 
