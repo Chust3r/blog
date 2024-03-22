@@ -20,5 +20,5 @@ Se alimenta principalmente de insectos, gusanos y pequeños peces, ayudando a ma
 Sin embargo, apesar de su importancia y su facinante biología, el ajolote enfrenta numerosas amenazas en la actualidad. La pérdida de hábitad debido a la urbanización y la contaminación del agua son algunas de las principales preocupaciones para la supervivencia de esta especie única.
 
 Que esta 
-
+Estrella
 Jijijija
