@@ -1,18 +1,38 @@
 ---
-title: 'Erizo pigmeo africano'
+title: 'Tipos'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'March 05 2024'
+pubDate: 'April 12 2024'
 heroImage: '/erizo.png'
 ---
 
-Los erizos pigmeos africanos, científicamente conocidos como Atelerix albiventris, son pequeños mamíferos pertenecientes a la familia Erinaceidae, nativos de África. Son comúnmente conocidos como erizos africanos o erizos pigmeos debido a su tamaño más pequeño en comparación con otras especies de erizos.
+El comportamiento disruptivo puede manifestarse de diversas maneras y puede clasificarse en varios tipos según sus características específicas. Algunos de los tipos comunes de comportamiento disruptivo incluyen:
 
-Estos adorables animales tienen un cuerpo redondeado y cubierto de espinas cortas y afiladas que los protegen de los depredadores. Su pelaje varía en tonos de marrón, gris y blanco, mientras que sus espinas suelen ser de un color más oscuro. Tienen ojos pequeños y orejas redondeadas, lo que les proporciona una apariencia distintiva y encantadora.
+Comportamiento agresivo:
 
-Los erizos pigmeos africanos son principalmente nocturnos, lo que significa que son más activos durante la noche. Son animales solitarios y territoriales, prefiriendo vivir en áreas con cobertura densa donde puedan encontrar refugio y alimentos. Aunque son omnívoros, su dieta consiste principalmente en insectos, lombrices y otros invertebrados, aunque también pueden consumir frutas, verduras y pequeñas cantidades de carne magra.
+- Agresión física: Incluye golpear, empujar, arrojar objetos o cualquier otro acto físico dirigido hacia otras personas o propiedades.
+Agresión verbal: Implica insultos, amenazas, gritos u otros tipos de comunicación verbal destinada a intimidar o dañar emocionalmente a los demás.
 
-En cautiverio, los erizos pigmeos africanos se han vuelto populares como mascotas debido a su tamaño manejable, comportamiento curioso y relativamente bajo mantenimiento. Sin embargo, requieren cuidados adecuados, incluida una dieta equilibrada, un ambiente seguro y enriquecimiento adecuado para mantener su bienestar.
+Comportamiento desafiante:
 
-Una característica notable de los erizos pigmeos africanos es su capacidad para enrollarse en una bola cuando se sienten amenazados. Se enrollan con sus espinas hacia afuera, formando una armadura protectora que los ayuda a defenderse de los depredadores. Además de esta defensa pasiva, también pueden hacer un bufido audible y liberar saliva espumosa para disuadir a los posibles atacantes.
+- Desafío a la autoridad: Reflejado en la resistencia a seguir las reglas, desobedecer las órdenes de las figuras de autoridad o cuestionar constantemente las normas establecidas.
+- Negativismo: Mostrado a través de actitudes persistentemente negativas, cinismo o falta de cooperación en situaciones sociales o de trabajo.
 
-En la naturaleza, los erizos pigmeos africanos enfrentan amenazas como la pérdida de hábitat debido a la agricultura y la urbanización, así como la depredación por parte de animales introducidos, como perros y gatos. Sin embargo, su población generalmente se considera estable, y no están clasificados como especie en peligro de extinción. Sin embargo, en algunas regiones, la captura para el comercio de mascotas puede representar una amenaza localizada.
+Comportamiento perturbador en el aula:
+
+- Interrupción de la clase: Incluye hablar fuera de turno, interrumpir al maestro o a otros estudiantes, o comportamientos que distraen a otros del proceso de aprendizaje.
+- Falta de atención: Dificultad para concentrarse en las tareas académicas, inquietud constante o falta de interés en el material educativo.
+
+Comportamiento impulsivo:
+
+-  impulsivos: Acciones repentinas y sin premeditación, como reacciones violentas o decisiones irracionales tomadas sin considerar las consecuencias.
+- Dificultad para esperar o seguir instrucciones: Mostrada a través de la incapacidad para controlar los impulsos, esperar su turno o seguir instrucciones detalladas.
+
+Comportamiento disruptivo en el lugar de trabajo:
+
+- Sabotaje: Realización de acciones que obstaculizan el progreso o el rendimiento del equipo o la organización.
+- Hostigamiento: Comportamiento intimidatorio, acosador o discriminatorio dirigido a compañeros de trabajo o superiores.
+
+Comportamiento antisocial:
+
+- Violación de normas sociales: Actos que infringen las normas sociales aceptadas, como el vandalismo, el robo o el engaño.
+- Ausencia de remordimiento: Falta de arrepentimiento o empatía por el daño causado a otros como resultado de sus acciones.

@@ -1,14 +1,18 @@
 ---
-title: 'Koala '
+title: 'En casa'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'March 05 2024'
+pubDate: 'April 12 2024'
 heroImage: '/koala.png'
 ---
 
-El koala (Phascolarctos cinereus) es un marsupial arbóreo endémico de Australia. Es famoso por su aspecto adorable y su comportamiento tranquilo. Su cuerpo está adaptado para la vida en los árboles, con miembros robustos, garras afiladas y una cola espesa que utiliza para mantener el equilibrio mientras se desplaza entre las ramas.
+ Las conductas disruptivas en el hogar pueden generar tensiones y afectar la convivencia. Estas conductas son aquellas que alteran el funcionamiento normal de un espacio debido al incumplimiento de normas y reglas aceptadas por la sociedad. A continuación, te proporciono más información sobre las conductas disruptivas en el contexto del hogar:
 
-Los koalas tienen un pelaje denso y lanoso que varía en color de gris a marrón, con manchas blancas en el pecho y orejas peludas redondeadas. Tienen grandes narices negras y orejas redondas que les ayudan a detectar depredadores y a regular su temperatura corporal. Su dieta consiste principalmente en hojas de eucalipto, que son ricas en agua y nutrientes, y poseen una fuerte fragancia que puede ser detectada por el fino olfato del koala.
+Origen y aparición:
+- Las conductas disruptivas pueden manifestarse en diferentes etapas de la vida y afectan tanto a niños como a adolescentes.
+- En la infancia, estas conductas pueden surgir debido a dificultades para diferenciar entre lo que está bien y lo que está mal.
+- En la adolescencia, pueden estar relacionadas con la búsqueda de límites y la falta de conocimiento previo sobre las consecuencias de cruzar esos límites1.
 
-Son animales solitarios y nocturnos, pasando la mayor parte del día durmiendo en las copas de los árboles. Los koalas son conocidos por su vínculo especial con los eucaliptos, pasando la mayor parte de su vida en estos árboles, donde también obtienen su comida y agua. Aunque generalmente son tranquilos, los machos pueden volverse territorialistas durante la temporada de apareamiento.
-
-Desafortunadamente, el koala enfrenta numerosas amenazas en la actualidad, incluida la pérdida de hábitat debido a la deforestación, el cambio climático, las enfermedades y el riesgo de atropellos por vehículos. Como resultado, están clasificados como una especie vulnerable y se han implementado medidas de conservación para proteger su hábitat y garantizar su supervivencia a largo plazo.
+Causas:
+Factores ambientales: 
+- Experiencias traumáticas vividas en la infancia pueden desencadenar actitudes desfavorables, incluyendo comportamientos disruptivos.
+- Dificultades sociales: Algunos niños pueden tener dificultades para comprender las normas sociales o para manejar sus emociones, lo que contribuye a conductas disruptivas.
