@@ -28,7 +28,13 @@ Factores sociales y culturales:
 
 Factores biológicos y genéticos:
 
+<<<<<<< HEAD
 - Predisposición genética a ciertos trastornos mentales o comportamientos impulsivos.
 - Desequilibrios químicos en el cerebro que pueden afectar el estado de ánimo, la concentración y el control de los impulsos.
 
 Es importante reconocer que estos factores pueden interactuar entre sí de maneras complejas y que el comportamiento disruptivo no siempre tiene una única causa. Tratar de entender los motivos subyacentes puede ser crucial para abordar el comportamiento disruptivo de manera efectiva y brindar el apoyo necesario para resolver los problemas subyacentes.
+=======
+ Auque están clasificados como de preocupación menor en términos de conservación, la pérdida de su hábitat y su cazafurtiva siendo amenazas para su supervivencia.
+
+ Sergio
+>>>>>>> 4ddb41cd3d7974a07958d71802a142d289c72b9d

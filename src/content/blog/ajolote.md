@@ -30,5 +30,3 @@ Las características del comportamiento disruptivo pueden variar dependiendo del
 
 Estas características pueden manifestarse de diferentes maneras y en diferentes grados en personas con comportamiento disruptivo, y pueden estar influenciadas por una variedad de factores, como la genética, el entorno familiar, las experiencias de vida y los problemas de salud mental.
 
-
-
